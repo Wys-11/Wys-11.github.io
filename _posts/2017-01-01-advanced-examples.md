@@ -1,63 +1,24 @@
 ---
-title:  "Advanced examples"
-mathjax: true
+title:  "Project Lists"
 layout: post
-categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+# Ithaca Carbon Neutrality Project
 
+#### roles
+System engineering, modeling
+#### works
+* Developed policies, recommendations, and new models for the four sub-categories of electrification, renewable energy, transportation, and waste management to achieve Ithaca's carbon neutrality.
+* Utilized modern systems engineering tools for systematic management of the carbon neutral project.
+* Conducted meetings with project stakeholders to identify requirements, produced data-driven & charted decision analyses, and
+standardized outputs using different software by using quality function deployment diagrams, decision trees, etc.
+* Explored the optimal route for the public transit system within the transportation team, gathered and cleaned data, analyzed
+existing data with MATLAB's ADVISOR package to obtain optimal routes.
 
-## MathJax
+# Unix File system
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
-
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
-
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
-
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
-
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-## Gists
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
-
-## Images
-
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+#### roles
+software engineering
+#### works
+* Implemented Mount, Unmount, Create, Delete, Open and etc., methods for a file system by using C as backend language.
+* Project included Shell, File system, disk emulator blocks, and the library of C functions will emulate the disk system at the end.
