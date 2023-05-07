@@ -6,7 +6,7 @@ layout: post
 # Ithaca Carbon Neutrality Project
 
 #### roles
-System engineering, modeling
+System Engineering, Modeling
 #### works
 * Developed policies, recommendations, and new models for the four sub-categories of electrification, renewable energy, transportation, and waste management to achieve Ithaca's carbon neutrality.
 * Utilized modern systems engineering tools for systematic management of the carbon neutral project.
@@ -18,7 +18,7 @@ existing data with MATLAB's ADVISOR package to obtain optimal routes.
 # Unix File system
 
 #### roles
-software engineering
+Software Engineering
 #### works
 * Implemented Mount, Unmount, Create, Delete, Open and etc., methods for a file system by using C as backend language.
 * Project included Shell, File system, disk emulator blocks, and the library of C functions will emulate the disk system at the end.
