@@ -1,25 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Bio"
 layout: post
 ---
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hi, everyone! Here is Wenyi Shi. A 23-year-old girl who is about to enter the society. You are VERY welcome to come to my homepage to learn about my previous achievements. In addition to my academic achievements, I also have a warm and friendly personality that makes me a pleasure to be around. I am also a natural leader who inspires others with my positivity and can-do attitude. I have a strong sense of empathy and is always willing to lend a listening ear to those in need. :)
