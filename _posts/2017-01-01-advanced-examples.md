@@ -1,6 +1,8 @@
 ---
 title:  "Project Lists"
+mathjax: true
 layout: post
+categories: media
 ---
 
 # Ithaca Carbon Neutrality Project
