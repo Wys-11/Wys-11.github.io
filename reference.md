@@ -1,6 +1,6 @@
 ---
 title: "Reference"
-permalink: "/about/"
+permalink: "/reference/"
 layout: page
 ---
 
