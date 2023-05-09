@@ -4,17 +4,18 @@ permalink: "/About/"
 layout: page
 ---
 
-# Fun Facts
+## Fun Facts
 
 Here I will provide some fun fact about me.
 
-When I was young, I would like to be a teacher.
-My actual career plan is not as absolute as I said during the interview.
-One of the reasons for choosing this master's degree is that I don't want to be a student anymore.
+1. When I was young, I would like to be a teacher.
+2. My actual career plan is not as absolute as I said during the interview.
+3. One of the reasons for choosing this master's degree is that I don't want to be a student anymore.
+
 To be continue...
 
 
-# Reference for web
+## Reference for web
 
 Reference link for the sample respitory is [here](https://github.com/niklasbuschmann/contrast).
 
