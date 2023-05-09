@@ -1,5 +1,5 @@
 ---
-title: "Reference"
+title: "More"
 permalink: "/About/"
 layout: page
 ---
