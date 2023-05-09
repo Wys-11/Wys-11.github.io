@@ -1,6 +1,6 @@
 ---
 title: "More"
-permalink: "/about/"
+permalink: "/facts/"
 layout: page
 ---
 
